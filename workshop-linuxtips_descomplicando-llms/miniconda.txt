@@ -1,0 +1,8 @@
+#
+# To activate this environment, use
+#
+#     $ conda activate C:\ws-estudos-llm\estudos-llm\workshop-linuxtips_descomplicando-llms\env
+#
+# To deactivate an active environment, use
+#
+#     $ conda deactivate
