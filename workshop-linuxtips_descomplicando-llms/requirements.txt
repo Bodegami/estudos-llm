@@ -6,3 +6,4 @@ tiktoken
 wikipedia
 pypdf
 llmx
+langchain-openai
