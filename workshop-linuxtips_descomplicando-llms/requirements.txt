@@ -7,3 +7,4 @@ wikipedia
 pypdf
 llmx
 langchain-openai
+langchain-experimental
