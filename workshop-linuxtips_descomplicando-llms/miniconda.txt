@@ -6,3 +6,8 @@
 # To deactivate an active environment, use
 #
 #     $ conda deactivate
+
+
+Execute jupyter:
+
+$ jupyter-lab
