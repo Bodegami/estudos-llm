@@ -5,6 +5,7 @@ python-dotenv
 tiktoken
 wikipedia
 pypdf
+docx2txt
 llmx
 langchain-openai
 langchain-experimental
