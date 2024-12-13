@@ -9,3 +9,4 @@ docx2txt
 llmx
 langchain-openai
 langchain-experimental
+gradio
